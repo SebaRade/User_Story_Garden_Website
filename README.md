@@ -21,7 +21,6 @@ Thus, I split myself into two personae and persued their desired experiences:
   - I want to have a calendar listing the timepoints when to bring out the seeds.
 <br>
 Based on these personae, I generated the user story map:
-
 <br>
 **Summary**
 <br>
