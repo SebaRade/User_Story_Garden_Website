@@ -15,7 +15,7 @@ Thus, I split myself into two personae and persued their desired experiences:
   - I want to add images to find the plants more quickly when I forgot their names.
   - I want to retrieve the information directly in the garden from my mobile.
 <br>
-- Björn, 35, gardener, no children, has a dog
+    - Björn, 35, gardener, no children, has a dog
   - As a gardener, I want to document my work (e.g., time of seeding, germination rate) to improve in the next season.
   - I want to document the different subtypes of veggies and assign parameters like taste and yield quantitatively and qualitatively.
   - I want to know the growth condition of each plant so that I can take care appropriately during the season.
@@ -23,6 +23,7 @@ Thus, I split myself into two personae and persued their desired experiences:
 <br>
 Based on these personae, I generated the user story map:
 
+<br>
 **Summary**
 <br>
 The website is very simple – editor-based and written only with HTML and CSS. Nonetheless, it provides all the information needed after few clicks.
