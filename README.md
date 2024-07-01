@@ -22,10 +22,11 @@ Thus, I split myself into two personae and persued their desired experiences:
 
 Based on these personae, I generated the user story map:
 <br>
-![userstorymap](https://github.com/SebaRade/User_Story_Garden_Website/assets/156301448/2f4ffa8b-d104-493c-b7c4-31620c6ceb9d | width="200")
+<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://github.com/SebaRade/User_Story_Garden_Website/assets/156301448/2f4ffa8b-d104-493c-b7c4-31620c6ceb9d)" width="200">
 <br>
 
 **Summary**
 <br>
 The website is very simple – editor-based and written only with HTML and CSS. Nonetheless, it provides all the information needed after few clicks.
+<br>
 ![gurke](https://github.com/SebaRade/User_Story_Garden_Website/assets/156301448/bbb9c195-3ed9-4920-b06b-8d15c9c84691)
