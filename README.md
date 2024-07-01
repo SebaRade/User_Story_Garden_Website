@@ -22,7 +22,7 @@ Thus, I split myself into two personae and persued their desired experiences:
 
 Based on these personae, I generated the user story map:
 <br>
-<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://github.com/SebaRade/User_Story_Garden_Website/assets/156301448/2f4ffa8b-d104-493c-b7c4-31620c6ceb9d)" width="200">
+<img src="[https://your-image-url.type](https://github.com/SebaRade/User_Story_Garden_Website/assets/156301448/a5a95849-fac6-4c37-82a1-bfba7967f507)" width="200">
 <br>
 
 **Summary**
