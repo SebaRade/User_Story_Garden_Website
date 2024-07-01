@@ -3,9 +3,11 @@
 2021-03-16
 
 **Background**
+<br>
 When we started to grow our own veggies, the scientist inside of me wanted to have some sort of a labbook. There were solutions available, but they were either too predefined and not matching my needs or they were too expensive. The easiest way was to build my own website. But before writing the HTML script, my husband (IT project manager for, inter alia, agile C2B app development) ~~forced me~~ suggested to first define the relevant functions.
 
 **Results**
+<br>
 Thus, I split myself into two personae and persued their desired experiences:
 <br>
 - Dörthe, 31, scientist, no children, has a dog
@@ -22,4 +24,5 @@ Thus, I split myself into two personae and persued their desired experiences:
 Based on these personae, I generated the user story map:
 
 **Summary**
+<br>
 The website is very simple – editor-based and written only with HTML and CSS. Nonetheless, it provides all the information needed after few clicks.
