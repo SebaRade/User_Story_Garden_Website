@@ -19,9 +19,10 @@ Thus, I split myself into two personae and persued their desired experiences:
   - I want to document the different subtypes of veggies and assign parameters like taste and yield quantitatively and qualitatively.
   - I want to know the growth condition of each plant so that I can take care appropriately during the season.
   - I want to have a calendar listing the timepoints when to bring out the seeds.
-<br>
+
 Based on these personae, I generated the user story map:
 <br>
+
 **Summary**
 <br>
 The website is very simple – editor-based and written only with HTML and CSS. Nonetheless, it provides all the information needed after few clicks.
